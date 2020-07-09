@@ -1,1 +1,1 @@
-This is Justin's first Spring-boot-web application which is for learning Spring boot framework including Spring MVC, Spring Validation, Spring Security, JSTL, Bootrap, JQuery etc. 
+This is Justin's first Spring-boot-web application which is for learning Spring boot framework including Spring MVC, Spring Validation, Spring Security, JSTL, Bootstrap etc.
